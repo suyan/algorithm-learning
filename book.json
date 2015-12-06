@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "code_tomorrow_scheme",
         "google_code_prettify",
         "mathjax"
     ],

@@ -1,7 +1,7 @@
 {
     "plugins": [
         "code_tomorrow_scheme",
-        "-disqus"
+        "disqus"
     ],
     "pluginsConfig": {}
 }

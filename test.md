@@ -21,5 +21,11 @@ Either of the following solutions are acceptable:
 2. Sort first $$O(nlgn)$$ and use two pointer to find target $$O(n)$$
 3. Use a hashmap that number is key and index is value, traverse this array and save every pair. Traverse again to find if `target - value` in hashmap.
 
+## 3. Solution
+
+```C++
+
+```
+
 
 

@@ -23,7 +23,7 @@ Either of the following solutions are acceptable:
 
 ## 3. Solution
 
-```C++
+```cpp
 class Solution {
 public:
     vector<int> twoSum(vector<int> &num, int target) {

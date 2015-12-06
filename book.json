@@ -1,8 +1,7 @@
 {
     "plugins": [
         "google_code_prettify",
-        "mathjax",
-        "tbfed-theme"
+        "mathjax"
     ],
     "pluginsConfig": {}
 }

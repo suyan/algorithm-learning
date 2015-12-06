@@ -1,7 +1,6 @@
 {
     "plugins": [
         "code_tomorrow_scheme",
-        "github",
         "google_code_prettify"
     ],
     "pluginsConfig": {}

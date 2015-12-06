@@ -1,8 +1,7 @@
 {
     "plugins": [
         "code_tomorrow_scheme",
-        "google_code_prettify",
-        "mathjax"
+        "google_code_prettify"
     ],
     "pluginsConfig": {}
 }
